@@ -1,10 +1,10 @@
-## Implementation Forum "xyz"
+## Implementation Forum "Identity & Attestation Management"
 
 ### General Information
 
-This is the repository for the Data Space Implementation Forum "xyz", dealing with the DSSC Building Blocks A, B & C.
+This is the repository for the Data Space Implementation Forum "Identity & Attestation Management", dealing with the corresponding [DSSC Building Block](https://dssc.eu/space/BVE/357075352/Identity+and+Attestation+Management)
 
-We are currently meeting biweekly on x-days from hh:mm to hh:mm. Reminders and invitations for new participants will be sent 1-2 days before the meetings. To receive invitations, [please register via this link](https://forms.gle/CUDio2n6nGhgM94X6) and select at least one of the building blocks above. You can propose agenda items by committing changes to the agenda below. [Please also join our Matrix channel](https://matrix.to/#/!PBADeZgSbpHlBoyEjE:matrix.org?via=matrix.org).
+We are currently meeting monthly on x-days from hh:mm to hh:mm. Reminders and invitations for new participants will be sent 1-2 days before the meetings. To receive invitations, [please register via this link](https://forms.gle/CUDio2n6nGhgM94X6) and select at least one of the building blocks above. You can propose agenda items by committing changes to the agenda below. [Please also join our Matrix channel](https://matrix.to/#/!PBADeZgSbpHlBoyEjE:matrix.org?via=matrix.org).
 
 This meeting depends on contributions from data space projects (i.e. YOU). Please contact [Gaia-X Hub Germany](mailto:gaia-x-begleitforschung@acatech.de) in advance to schedule an input. Contributions may be in the following form, but any othe interesting input regarding our IF topics are of course also welcome:
   - What is the context of the project? What is the main challenge regarding the building blocks above?
@@ -19,8 +19,8 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 ### Agenda for next meeting, x-day dd.mm.yyyy, hh:mm to hh:mm
 - Welcoming new participants
 - Additional Agenda items?
-- Input & Discussion for topic xyz
-- Continuing Work around topic abc
+- Input & Discussion for topic "Identity & Attestation Management"
+- Continuing Work around topic "Identity & Attestation Management"
 - AOB
 - Event Updates
 
