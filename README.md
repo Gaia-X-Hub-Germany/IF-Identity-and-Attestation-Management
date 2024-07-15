@@ -40,4 +40,4 @@ This format offer the Data Space Community a place for exchange between projects
 
 ### Past Meetings & Interesting Reads
 - please also note the [IF Access & Usage Policies and Enforcement](https://github.com/Gaia-X-Hub-Germany/IF-Access-and-Usage-Policies-and-Enforcement)
-- [YouTube video on SSI and Wallets](https://www.youtube.com/watch?v=FBYp9cwNw5o&list=PLx9hLnO5yRKDi_6NQ9X_MclZTSjgt4EcT&index=1)
+- [GXFS: Principles of Sovereign Identities and Digital Wallets (Video)](https://www.youtube.com/watch?v=FBYp9cwNw5o&list=PLx9hLnO5yRKDi_6NQ9X_MclZTSjgt4EcT&index=1)
