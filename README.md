@@ -15,7 +15,7 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
   - What are your next steps now? How will you scale up on the built-up knowledge?
 
 
-### Agenda for next meeting, Thursday 11.07.2024, 12:00-12:30
+### Agenda for next meeting, Thursday 08.08.2024, 12:00-12:25
 - Welcoming new participants
 - Additional Agenda items?
 - Input & Discussion for topic "Identity & Attestation Management"
