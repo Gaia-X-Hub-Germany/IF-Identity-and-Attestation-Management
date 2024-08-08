@@ -31,6 +31,8 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 
 - [Wizard by Gaia-X Lab](https://wizard.lab.gaia-x.eu/onboarding)
 - [Sign-Up Wizard by SmartSense](https://wizard.dev.smart-x.smartsenselabs.com/public/sign-up)
+- [Smart-X-Signer by smartSense Documentation](https://github.com/smartSenseSolutions/smartsense-gaia-x-signer)#
+- [Smart-X Gaia-X UI Documentation](https://github.com/smartSenseSolutions/smartsense-gaia-x-ui)
 - Contribute with your solution and recommendation to the [DSSC toolbox](https://dssc.eu/space/News/blog/533430342/The+DSSC+Toolbox+and+its+validation+scheme)
 
 ### What is an Implementation Forum?
